@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16959" started-at="2020-03-03T18:25:38 CST" finished-at="2020-03-03T18:25:55 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16959" started-at="2020-03-03T18:25:38 CST" finished-at="2020-03-03T18:25:55 CST">
+      <class name="TestNg.TestNg">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNg.TestNg@72b6cbcc]" name="beforeClass" is-config="true" duration-ms="6070" started-at="2020-03-03T18:25:38 CST" finished-at="2020-03-03T18:25:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="VerifyApplePage()[pri:0, instance:TestNg.TestNg@72b6cbcc]" name="VerifyApplePage" duration-ms="6494" started-at="2020-03-03T18:25:45 CST" finished-at="2020-03-03T18:25:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyApplePage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNg.TestNg@72b6cbcc]" name="afterClass" is-config="true" duration-ms="4349" started-at="2020-03-03T18:25:51 CST" finished-at="2020-03-03T18:25:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNg.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
